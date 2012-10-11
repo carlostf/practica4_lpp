@@ -14,3 +14,4 @@ class TestRadio < Test::Unit::TestCase
   def test_igualdad
       assert_equal(12,75.36)
   end
+end
